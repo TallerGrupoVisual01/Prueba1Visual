@@ -2,6 +2,8 @@
 
     Sub Main()
         Console.WriteLine("Hola C4")
+        Console.ReadLine()
+
 
     End Sub
 
